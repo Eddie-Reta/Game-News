@@ -1,0 +1,14 @@
+.article_title {
+    background-color: #C0C0C0;
+    color: #66FF66;
+}
+.modal {
+    display: none;
+    position: fixed;
+    z-index: 10;
+    width: 30vh;
+    height: 20vh;
+    top: 5vh;
+    left: 40%;
+    background-color: lightskyblue;
+}
